@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[t3mp3]]></title>
+  <link href="http://suryaadtmaja.github.io/atom.xml" rel="self"/>
+  <link href="http://suryaadtmaja.github.io/"/>
+  <updated>2016-09-06T11:27:21+07:00</updated>
+  <id>http://suryaadtmaja.github.io/</id>
+  <author>
+    <name><![CDATA[t3mp3 b4c3m]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
